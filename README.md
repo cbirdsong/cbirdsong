@@ -14,7 +14,9 @@ I build websites that are **fast**, **functional** and **beautiful** using acces
 </details>
 
 <details>
-  <summary>Stuff I Know</summary>
+  <summary>
+    **Stuff I Know**
+  </summary>
   
   - **Templating languages** (Liquid, Twig, Nunjucks, Smarty)
   - **<abbr title="Cascading Stylesheets">CSS</abbr> preprocessors** (Sass and Less)
