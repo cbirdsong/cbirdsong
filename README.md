@@ -5,26 +5,24 @@ I build websites that are **fast**, **functional** and **beautiful** using acces
 <details>
   <summary>Stuff I Made</summary>
   
-  - [Eye on 2020](https://2020.bbrcreative.com)
-  - [The Current](https://thecurrentla.com)
-  - [Food Marketing Now](https://foodmarketingnow.com)
-  - [Lafayette General Ortho](https://lafayettegeneralortho.com)
-  - [Bye to Banks](https://byetobanks.com)
+  - [Jet Set](https://stylestage.dev/styles/jet-set/)
   - [TouchFuzzy](https://github.com/cbirdsong/touchfuzzy)
+  - [The Current](https://thecurrentla.com)
+  - [Civix](https://web.archive.org/web/20210717021817/https://gocivix.com/)
+  - [Eye on 2020](https://2020.bbrcreative.com)
+  - [Food Marketing Now](https://foodmarketingnow.com)
 </details>
 
 <details>
   <summary>Stuff I Know</summary>
   
-  - **Templating languages** (Liquid, Twig, Nunjucks, Smarty)
-  - **<abbr title="Cascading Stylesheets">CSS</abbr> preprocessors** (Sass and Less)
-  - **jQuery**
-  - **npm**
-  - **Git**, GitHub and BitBucket
-  - **<abbr title="Scalable Vector Graphics">SVG</abbr>**, hand-coding animations, transitions and optimizations
-  - **WordPress**, building themes from scratch in both standard PHP and using Twig via **[Timber](https://www.upstatement.com/timber/)**
-  - **[Pattern Lab](https://patternlab.io/)**, building pattern libraries for design systems
-  - **HubSpot**, building custom landing pages and email templates, customizing form embeds
+  - **<abbr title="HyperText Markup Language">HTML</abbr>**, and templating languages (Liquid, Twig, Nunjucks, Smarty)
+  - **<abbr title="Cascading Stylesheets">CSS</abbr>**, and preprocessors (Sass and Less)
+  - **JavaScript**, and jQuery
+  - **<abbr title="Scalable Vector Graphics">SVG</abbr>**
+  - **WordPress**
+  - **Eleventy**
+  - _and [much more](https://birdsong.dev/resume)_
 </details>
 
 **[Find out more about me.](https://birdsong.dev)**
