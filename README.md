@@ -26,3 +26,10 @@ I build websites that are **fast**, **functional** and **beautiful** using acces
 </details>
 
 **[Find out more about me.](https://birdsong.dev)**
+
+<details>
+  <summary>Other places you can find me:</summary>
+  <p>⭐️<a rel="me" href="https://micro.blog/cbirdsong">Micro.blog</a></p>
+  <p>🐘<a rel="me" href="https://mastodon.social/@cbirdsong">Mastodon</a> (but you should probably follow cory@m.birdsong.dev instead)</p>
+  <p>🕴️<a rel="me" href="https://linkedin.com/in/cbirdsong">LinkedIn</a></p>
+</details>
